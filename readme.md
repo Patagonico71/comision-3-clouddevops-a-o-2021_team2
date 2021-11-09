@@ -8,7 +8,8 @@ Proyecto: Trabajo Integrador de Cloud DevOps.
 1. Rol: Product Owner
 - Juan Pablo Arnedo 
 - mail: juampa@gmail.com  
-- https://www.linkedin.com/in/leonardo-moya-53746314/
+- https://www.linkedin.com/in/juan-pablo-arnedo-1b83817/
+
 
 2. Rol: SRE
 - Martin Rey 

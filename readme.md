@@ -3,13 +3,15 @@ Proyecto: Trabajo Integrador de Cloud DevOps.
 Miembros del proyecto
 
 Rol: Product Owner
-Juan Pablo Arnedo.
-Mail: sur.patagonico@gmail.com 
+Juan Pablo Arnedo
+Mail: sur.patagonico@gmail.com
+
 https://www.linkedin.com/in/juan-pablo-arnedo-1b83817/
 
 Rol: SRE
 Martin Rey 
-mail:martins_rey@hotmail.com 
+mail:martins_rey@hotmail.com
+
 https://www.linkedin.com/in/martin-santiago-rey/
 
 Rol: Scrum Master
